@@ -243,3 +243,6 @@ yum
 =========
 is a s/w - git, maven, jenkins, docker
 sudo
+
+
+checking for fetch purpose
