@@ -1,0 +1,155 @@
+DevOps & Cloud
+=================
+
+Linux
+=======
+
+4 Jobs
+=========
+Cloud DevOps Engineer
+Linux & DevOps Enginer
+SRE - Site Realiablity Engineer
+Linux, DevOps & Cloud Engineer
+
+Linux
+============
+
+OS 
+Windows 8GB -
+
+Linux - server
+===========
+
+AWS Account
+===============
+Pre-req
+===========
+Free account - 1year 750 hrs - 2/rs - Debit/Credit
+
+AWS  - Amazon Web Services
+=========
+EC2 - Server
+
+Linux Server
+
+DevOps
+==============
+1. SCM - Source Code Management - Git, Github & GitLab
+2. Build Tool - Maven
+3. Continuous Integration - Jenkins - Groovy Scriping(shell scripting)
+4. Containerzation - Docker - Dockerfiles
+5. Container Orchestratation - Kubernetes (GCP- Google Cloud Platform) - Manifeast files
+6. Configuration Management Tool - Ansible - Playbook
+
+AWS
+============
+1. EC2 instnace - cpu, RAM, server
+2. Networking - VPC
+3. S3 - 22 Mem - 6 - 1year
+4. Load Balancer - Lacs users - 10 servers
+    60k - 45k
+5. Auto Scalling - servers
+6. Monitoring Tool - Cloudwatch - Alarm
+   80 % - Automation E-mail - 100% mem
+7. SNS - we will get E-Mail notication
+8. Stopped stage -  EBS - Elastic lock Storage - Snaopshot & Image (Backup & Restore)
+9. AMI - Amazon Image Image
+10. Termonation Protection
+11. IAM - 
+   EC2, S3 -
+12. EIP - 
+
+2 Methodolgies
+1. Console Access
+2. CLI - Linux commands
+
+
+
+
+IaaC
+==============
+Terraform
+
+Commands - Automation
+
+20 Tools
+
+ 
+
+Mon- Fri
+===========
+2hrs   - Realtime 
+45 days - 100 hrs
+
+Live Project
+
+task - 
+Day - Interview questions
+I am sending with - Day to Day recording
+commands
+
+Separate interview questions Tools
+
+3-4hrs
+
+
+
+DevOps & Cloud
+============
+Single Tool
+Multiple Tool - Candidate
+
+Live Project
+===============
+
+Resumes
+=============
+
+4-8 
+200 interview question
+
+90%
+
+
+
+Java
+test
+test - 4 yrs - 8 Lacs
+10 Lacs
+12- 16 Lacs
+
+15 yrs - 22Lacs
+6 - 24 hrs
+
+2 yrs - 12Lacs - 3- 4 tech
+tcs - 7.5
+
+
+Production
+============
+comm
+test
+n/w
+admin
+dev
+
+imp
+======
+mob
+
+screenshot
+
+6 - 12 pm
+
+3 - 10 Lacs
+15 Lacs
+
+
+
+
+
+
+
+
+
+
