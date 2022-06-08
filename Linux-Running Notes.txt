@@ -1,0 +1,245 @@
+AWS Account
+==================
+
+free for 1 year -750 hrs
+
+it will take 24hrs
+
+E-mail id & pwd 
+Debit/credit - 2/rs - 2/rs
+
+1. AWS Account - created
+2. Putty software - windows
+
+PuTTYgen
+
+Windows
+============
+8GB- 60 - 70,000
+
+Linux
+==============
+8GB - AWS EC2 Instnace
+
+Linux:
+=====
+Linux is an OS its a free software
+
+commands
+
+1. Linux - server
+===============
+1. EC2 Instnace - Elastic Compute cloud, VM Instance/services/server
+
+Region
+===========
+
+
+centos - fedora
+
+ubuntu
+susulinux
+
+t2.mico
+============
+8gb ram
+
+
+
+
+
+7 steps process
+==============
+1.AMI
+
+EC2 instance/ Linux server
+===========================
+
+server - key pair - aws - windows - communication
+keys
+====
+2 types of keys
+1. pem file(public key) - aws stores
+2. ppk file(private key) - you store
+
+by using with public key we can ceate our private key
+PuTTYgen - we can create pivate key
+
+connect the server
+===============
+putty - here
+
+
+
+
+AWS Account
+--------------
+linux server - ec2 instances
+
+ec2 instnace - 7steps process
+
+2. wecan download publickey(pem file)
+
+3. using with publickey you need to create/conver privatekey(ppkfile) - PuTTygen
+
+
+Linux
+==========
+mkdir linux
+cd linux
+cd ..
+pwd
+ls
+
+Files creation in Linux
+=========================
+touch shobha
+
+remove file
+===========
+rm -f shobha
+
+create directory
+===============
+mkdir dir1 dir2 dir3
+
+rm -rf dir3
+
+
+1. Account creation
+2. putty software download
+3. ec2 instnace creation
+4. pem file & ppk file
+5. creation of ppk file
+6. putty - server connection
+7. Linux commands
+
+
+Regions: India - London-
+============
+availaibility zone - state -mumbai & hyd 2022 - 2- 5 availiability
+
+
+Permissions & Right
+===============
+
+read   - 4(r)
+write  - 2 (w)
+Execute - 1 (x)
+====================
+4 + 2 + 1 =7 
+
+file.txt 
+
+Files level
+===========
+user level		GROUPLEVEL		OTHER LEVEL
+7			7				7
+chown ec2-user file.txt
+
+Group
+=======
+
+
+dr wxr(user)	group    other   
+d4 2+1+4        xr	x
+4    7		5       1
+
+    r          r        w
+
+
+chown
+=========
+file    -	users	groups	others
+directory -  d	"	"	"
+
+ownership:   chown
+permissions: chmod
+
+chmod 442 test.txt
+
+permissions:
+==============
+1 person - 1 file - rx
+
+chmod
+
+Task: file
+==========
+1. create a file
+2. rx r r
+   5  4 4
+
+touch samplefile
+
+chmod 544 samplefile
+
+permissions directory
+============
+chmod -R 777 mydir
+
+create A DIRECTORY
+userlevel(rwx)
+mkdir dir2
+chmod -R 700 dir2
+
+Ownership
+============
+Files & Directories
+
+touch file1
+shobha
+chown shobha file1
+
+directories
+===========
+chwon -R shobha:shobha dir1
+
+Permissions:
+=============
+mkdir test(10 files)
+drx rx rx
+ 5  5  5
+chmod -R 555 test
+
+touch filenew
+x x x
+1 1 1
+chmod 111 filenew
+
+
+Shortcut commands
+===============
+1. command mode
+2. insert mode
+3. extended mode
+
+nano - unix OS
+vim - Linux OS
+
+files & permissions
+VIM
+
+
+Monitoring Tool
+==================
+
+top
+
+5 imp
+cpu
+mem
+
+Binarary & Library
+==============
+100 1000
+binary * Libarry
+
+SUSE linux
+
+DNS - Domain name specific
+
+yum
+=========
+is a s/w - git, maven, jenkins, docker
+sudo
